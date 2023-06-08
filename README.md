@@ -1,5 +1,7 @@
 # Blood-bank-management-system
 
+The Blood Donation Organization has developed an efficient online system to manage the Blood Bank System. This system enables willing blood donors to register their names, while individuals in need of blood can easily check for its availability.
+
 # Installation
 Install XAMPP or WAMPP.
 
